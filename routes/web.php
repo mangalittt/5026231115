@@ -38,3 +38,39 @@ Route::get('satu', function () {
 Route::get('layout', function () {
 	return view('tugaslayout');
 });
+
+Route::get('tugascss', function () {
+	return view('tugascss');
+});
+
+Route::get('template1', function () {
+	return view('template1');
+});
+
+Route::get('js1', function () {
+	return view('js1');
+});
+
+Route::get('bootstrap1', function () {
+	return view('bootstrap1');
+});
+
+Route::get('linktree', function () {
+	return view('linktree');
+});
+
+Route::get('contactform', function () {
+	return view('contactform');
+});
+
+Route::get('validasi1', function () {
+	return view('validasi1');
+});
+
+Route::get('ets', function () {
+	return view('index');
+});
+
+Route::get('frontend', function () {
+	return view('frontend');
+});

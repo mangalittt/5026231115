@@ -31,7 +31,7 @@
                         <i class="fa fa-dashboard"></i> <span
                             class="d-none d-md-inline">
                             <div class="d-flex align-items-center mt-3 pl-3 text-white">
-                                <img src="/.../public/image/Frame627275.png" alt="Nagisa Natsumi" class="rounded-circle" style="width:60px; height:60px;">
+                                <img src="image/Frame627275.png" alt="Nagisa Natsumi" class="rounded-circle" style="width:60px; height:60px;">
                                 <div class="ml-3">
                                     <h5 class="mb-0">Nagisa Natsumi</h5>
                                     <p class="mb-0">nagisanatsumi@gmail.com</p>
@@ -61,7 +61,7 @@
                     </div>
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-6"> <img src="/.../public/image/gambarlayout.png" class="mb-3 ml-3 rounded-lg">
+                            <div class="col-md-6"> <img src="image/gambarlayout.png" class="mb-3 ml-3 rounded-lg">
                             <h4 class="ml-3">Nagisa Natsumi</h4>
                             <p class="ml-3">Perawat Lansia</p>
                             <div class="container">
