@@ -32,7 +32,7 @@
             @endif
 
             <?php
-            $nama = 'dontol';
+            $nama = 'adit';
             echo 'hallo apa kabar ' . $nama;?>
             <br />
             {{'ini dari blade ' . $nama}}
